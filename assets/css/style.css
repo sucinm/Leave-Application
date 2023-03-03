@@ -1,0 +1,31 @@
+#box{
+	
+	border:1px solid white;
+	
+	background-color:white;
+
+	margin:0 auto;
+		
+	border-radius:0px 0px 5px 5px;
+ 	
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 10);
+ 	
+	width: 0 auto;
+ 	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+div.dataTables_wrapper {
+        //width: 800px;
+        margin: 0 auto;
+    }
